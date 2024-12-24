@@ -1,0 +1,586 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+/* Header Section Start Here */
+
+    .master{
+        width:100%;
+        padding-bottom:290px;
+        background-color:#f4511e;
+       
+    }
+
+    .header{
+        background-color:#f66e44;
+        padding:5px;
+
+    }
+
+    .link li a,  .logo{
+        color:#fff;
+        letter-spacing:3px;
+    }  
+
+    .link li a{
+        color:#fff;
+        font-size:12px;
+        letter-spacing: 2.9px;
+    }  
+    
+    .icon-bar{
+        background-color:#818181;
+    }
+
+
+
+/* Banner Start Here */
+    .banner{
+        text-align:center;
+        position:relative;
+        top:150px;
+        color:#fff;
+       
+    }
+
+    .banner h1{
+        font-size:7rem;
+    }
+
+    .banner p{
+        font-size:2.2rem;
+    }
+
+   
+    .banner .subscribe{
+        width:100px;
+        font-size:1.7rem;
+        text-align:center;
+        background-color:#d9534f;
+        border:1px solid #d43f3a; 
+        border-radius:3px;
+    }
+                                                     
+/* banner Section Ends */
+
+ 
+
+
+
+
+/* Second Section Start Here */
+
+    .Second{
+        width:100%;
+    }
+
+    .second-box{
+        margin-top:6%;
+        
+    }
+
+    .left{
+        padding-top:17px;
+ 
+    }
+
+    .left h2{
+        font-weight:bold;
+    }
+
+    .left .para{
+        padding-top:3%;
+        color:#303030;
+        font-size:18px;
+    }
+
+    .left .para-1{
+        color:#818181;
+        font-size:15px;
+        padding-top:6%;
+        line-height:27px;
+    }
+
+
+    .left .get{
+        margin-top:27px;
+        width:140rpx;
+        border:1px solid #ccc;
+        background-color:#fff;
+    }
+
+     .right .glyphicon-signal{
+        font-size:200px;
+        color:#f4511e;
+    }
+/* Second Section Ends */
+
+
+
+/* Third Section Start Here */
+
+    .main{
+        width:100%;
+        margin-top:72px;
+        padding-bottom:72px;
+        padding-top:30px;
+        background-color:#f6f6f6;
+    }
+
+    .third-row{
+       margin-top:72px;
+    }
+
+    .right-box  .our{
+        font-size:180px;
+        color:#f4511e;
+    }
+    .left-box h3{
+        color:#000;
+        font-weight:bold;
+    }
+
+    .left-box .para-3{
+        padding-top:30px;
+        color:#303030;
+        font-size:18px;
+    }
+
+    .left-box .para-3 span{
+        font-weight:bold;
+        font-size:17px;
+
+    }
+
+    .left-box .para-4 span{
+        font-weight:bold;
+        font-size:13px;
+    }
+
+    .left-box .para-4{
+        font-size:13px;
+        padding-top:6%;
+        line-height:26px;
+        color:#818181;
+    }
+
+/*  Third Section Ends */
+
+
+
+
+
+/* Fourth Section Start Here */
+
+
+    .fourth-section{
+        text-align:center;
+        padding-top:5%;
+    }
+
+    .fourth-section h3{
+        color:#303030;
+        font-weight:bold;
+    }
+
+    .offer{
+        padding-top:1%;
+        font-size:19px;
+    }
+
+    .glyphicon{
+        font-size:5rem;
+    }
+
+
+    .box-3{
+        padding-top:3%;
+        text-align:center;
+       
+    }
+
+    .box-3 h4{
+        padding-top:2%;
+        font-weight:500;
+
+    }
+
+    .box-3 p{
+        color:#818181;
+        padding-top:7%;
+    }
+
+
+    /* Fourth Row-Part-2 Start Here */
+        .row-part-2{
+            padding-top:2%;
+           
+        }
+
+        .box-4{
+            text-align:center;
+        }
+
+
+        .box-4 h4{
+            padding-top:2%;
+            font-weight:500;
+        }
+
+        .box-4 p{
+            color:#818181;
+            padding-top:7%;
+        }
+    /* Fourth Row-Part-2 ENDs*/
+
+
+/* Fourth Section Ends*/
+
+
+
+
+
+/*  Fifth Section Start Here */ 
+
+    
+    .big{
+        width:100%;
+        margin-top:5%;
+        text-align:center;
+        padding-bottom:3%;
+        background-color:#f6f6f6;
+    }
+
+    .big-three-box{
+        padding-top:4%;
+    }
+
+    .big-three-box h3{
+        font-weight:bold;
+    }
+
+    .big-three-box p{
+        padding-top:3%;
+        font-size:19px;
+    }
+
+    .three-box{
+        margin-top:2%;
+        padding-bottom:2%;
+        background-color: #fff;
+        border:1px solid #f6f6f6;
+    }
+
+    .three-box img{
+        width:100%;
+        
+    }
+
+    .three-box .content h4{
+        padding-top:2%;
+        color:#818181;
+        font-weight:bold;
+    }
+
+    .three-box .content p{
+        color:#818181;
+        font-size:15px;
+    }
+    
+
+/*  Fifth Section ENds */ 
+
+
+
+
+
+/* Carousel Start Here */
+
+        .main-big-carousel{
+            background-color: #f6f6f6;
+            padding-bottom:20px;
+            width:100%;
+        }
+
+
+        .main-big-carousel h2{
+            padding-top:45px;
+            font-size:23px;
+            font-weight:bold;
+        }
+
+        .carousel{
+            text-align:center;
+            
+        }
+
+        .glyphicon{
+            color:#f4511e;
+        }
+
+        .carousel-indicators li{
+            border-color:#f4511e;
+        }
+
+        .carousel-indicators li.active{
+            background-color:#f4511e;
+        }
+
+        .item h3{
+            color:#303030;
+            font-size:19px;
+            font-style:italic;
+            font-weight:lighter;
+            line-height:27px;
+            margin:70px;
+        }
+
+        .carousel-control.right, .carousel-control.left{
+            background-image:none;
+        }
+        
+        .carousel .icon{
+            font-size:30px;
+        }
+
+/* Carousel Section Ends */
+
+
+
+/* Sixth Section Start Here */
+
+      .big-sixth{
+        margin-top:50px;
+        text-align:center;
+      } 
+
+      .big-sixth h3{
+          font-size:25px;
+          font-weight:bold;
+        
+      }
+
+      .big-sixth p{
+          color:#303030;
+          line-height:3;
+          font-size:19px;
+      }
+
+      .row-sixth{
+          margin-top:2%;
+      }
+
+     
+     .panel-default .head-part{
+            color:#fff;
+            background-color: #f4511e;
+        }
+
+      .panel-heding{
+
+            border-top:1px solid #f4511e;
+            border-right:1px solid #f4511e;
+            border-left:1px solid #f4511e;
+        }
+
+      .panel-body{
+            border-right:1px solid #f4511e;
+            border-left:1px solid #f4511e;
+        }   
+        
+        .panel-footer{
+            padding-bottom:7%;
+            background-color:#fff;
+            border-right:1px solid #f4511e;
+            border-left:1px solid #f4511e;
+            border-bottom:1px solid #f4511e;
+        }
+        
+        .panel-default .head-part h1{
+            padding-top:3%;
+            padding-bottom:3%;
+            font-size:4rem;
+        }
+     
+        .panel-body h5{
+            font-size:15px;
+            line-height:25px;
+            color:#818181;
+        }
+
+        .panel-footer .btn{
+            color:#fff;
+            margin-top:5%;
+            background-color:#f4511e;
+        }
+        
+        .panel-footer h2{
+            color:#818181;
+
+        }
+
+        .panel-footer p{
+            font-size:14px;
+            color:#aaaa;
+
+        }
+
+/* Sixth Section Ends*/
+
+
+
+
+/* Seven Section Start Here */
+
+   .big-seven{
+       width:100%;
+        margin-top:72px;
+        padding-bottom:5%;
+        background-color:#f6f6f6;
+   }
+
+   .big-seven h3{
+       padding-top:5%;
+       text-align:center;
+       font-weight:bold;
+   }
+
+   .contact{
+       margin-top:3%;
+      
+   }
+   .location .icon{
+       color:#303030;
+       font-size:17px;
+       line-height:27px;
+      
+   }
+   .location h5{
+       font-size:15px;
+       line-height:27px;
+   }
+
+   .button{
+       margin-top:2%;
+       text-align:right;
+   }
+
+/*Seven Section Start Here*/
+
+
+
+
+/* Eight Section Start Here */
+   
+    .footer{
+        margin-top:60px;
+        margin-bottom:80px;
+       
+    }
+
+    .footer-icon{
+        font-size:19px;
+
+    }
+
+    .footer p{
+        font-size:15px;
+        padding-top:15px;
+        color:#818181;
+    }
+
+    .footer p a{
+        font-size:15px;
+    }
+ /* Eight Section Ends */
+ 
+
+
+
+
+
+
+
+ /* Media Query Resolution for tablet view Start Here */
+
+
+    @media only screen and (max-width:992px){
+
+        .left .para-1{
+            font-size:17px;
+            line-height:30px;
+        }
+
+        .left-box .para-3{
+            font-size:19px;
+        }
+
+        .left-box .para-3 span{
+            font-weight:bold;
+            font-size:19px;
+
+        }
+
+        .left-box .para-4 span{
+            font-weight:bold;
+            font-size:15px;
+        }
+
+        .left-box .para-4{
+            font-size:15px;
+            padding-top:6%;
+            line-height:26px;
+            color:#818181;
+        }
+
+        
+    }
+
+ /* Media Query Resolution for tablet view Ends */
+
+    
+
+
+ /* Media Query Resolution for mobile view start here*/
+    @media only screen and (max-width:767px){
+       
+        .right-box{
+            text-align:center;
+        }
+
+    
+        .right{
+            padding-top:20px;
+            text-align:center;
+        }
+
+      
+
+    /* Fourth section Start  here*/
+
+        .box-4-1{
+            padding-top:50px;
+        }
+        
+        .left .get{
+            width:100%;
+        }
+
+        
+        .big{
+            margin-top:80px
+        }
+
+        
+        .big-three-box{
+            padding-top:40px;
+        }
+
+
+        .carousel .icon{
+            font-size:21px;
+        }
+    }
+
+ /* Media Query Resolution for mobile view Ends/
